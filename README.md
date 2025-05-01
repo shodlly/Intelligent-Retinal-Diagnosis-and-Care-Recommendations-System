@@ -1,6 +1,4 @@
-أكيد! هذا تنسيق جديد ومنظم لملف الـ `README.md` يعرض المحتوى بشكل احترافي وسهل الفهم:
 
----
 
 # 🧠 Intelligent Retinal Diagnosis and Care Recommendations System
 
@@ -37,18 +35,7 @@ Due to file size limits, the following trained models are hosted externally:
 
 | File | Description |
 |------|-------------|
-| `RS&LLM.ipynb` | LLM-based recommender notebook that takes the diagnosis and user responses, builds a tailored prompt, and sends it to **GPT-4 Turbo**. The generated recommendation is evaluated automatically using a second LLM instance to ensure medical accuracy, relevance, and safety. |
+| `RS&LLM.ipynb` | LLM-based recommender notebook |
 
 ---
 
-## 💡 Summary
-This system combines deep learning for disease classification with natural language generation for recommendation, aiming to support early diagnosis and improve accessibility to personalized eye care, especially in resource-limited environments.
-
----
-
-هل تبيني أضيف فقرة "طريقة التشغيل" أو instructions برضو؟
-🔗 Download
-
-🤖 Recommender System
-RS&LLM.ipynb
-Notebook for generating personalized health recommendations using LLM (GPT-4 Turbo), with evaluation module.
