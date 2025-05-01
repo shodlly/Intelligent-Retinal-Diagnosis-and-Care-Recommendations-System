@@ -16,6 +16,7 @@ An AI-based system that classifies retinal images (OCT & CFP) and uses a Large L
 | `OCT_MobileNetV2.ipynb` | **Evaluation notebook for OCT** using MobileNetV2 model. |
 | `OCT_VGG19.ipynb` | **Evaluation notebook for OCT** using VGG19 model. |
 | `SplitCFPDataset.ipynb` | **Splitting strategy** for CFP dataset into training, validation, and testing sets. |
+| Optiscan.py | Backend script using Flask, LLM, and Ngrok to connect the web interface with diagnosis and recommendation models |
 
 ---
 
